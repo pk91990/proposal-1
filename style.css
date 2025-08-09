@@ -1,0 +1,76 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    font-family: "Underdog", system-ui;
+  font-weight: 600;
+  font-style: normal;
+  
+
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.btn{
+    
+    box-shadow: #f3f0f0;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    text-shadow: black;
+    
+     
+}
+
+button{
+    box-shadow: 2px 2px 7px rgba(152, 123, 123, 0.5);
+    font-size: large;
+    background-color: antiquewhite;
+    border-radius: 1pc;
+    padding: 8px;
+}
+button:hover{
+    box-shadow: 2px 2px 7px rgba(0, 0,);
+    transform: scale(1.1);
+    background-color: aqua;
+}
+
+body {
+    background-color: #e498be;
+}
+.img1 {
+    display: flex;
+    justify-content: center;
+}
+.ins {
+    display: flex;
+    justify-content: end;
+    margin-top: 45px;
+    
+}
+body {
+    background-color:   #FFF0F5;
+    transition: background-color 1s ease-in-out;
+}
+
+body:hover {
+    background-color:#FFD6D6  ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
