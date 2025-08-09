@@ -47,8 +47,8 @@ body {
 }
 .ins {
     display: flex;
-    justify-content: end;
-    margin-top: 45px;
+    position: absolute;
+    bottom: 20px;
     
 }
 body {
